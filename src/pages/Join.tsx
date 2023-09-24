@@ -147,7 +147,7 @@ button{
         font-size: 10px;
     }
     @media (max-width: 375px){
-        width: 80%;
+    width: 80%;
         font-size: 10px;
     }
 }

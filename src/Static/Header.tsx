@@ -65,15 +65,15 @@ gap: 10px;
 `
 const Logo = styled.img`
 @media (max-width: 320px){
-    width: 10%;
+
     
 }
 @media (max-width: 375px){
-    width: 10%;
+  
     
 }
 @media (max-width: 414px){
-    width: 10%;
+
     
 }
 `
